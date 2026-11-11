@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Schann</h1>
 <h3 align="center">Aspiring Web Developer && Data Analyst</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=MonoArchon">
-    <img src="https://komarev.com/ghpvc/?username=MonoArchon&label=Profile%20views&color=00FFFF&style=flat-square" alt="MonoArchon's profile views" />
-  </a>
-</p>
 
 ## 🧠 My Focus Areas
 - Web Developer
