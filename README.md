@@ -7,18 +7,6 @@
 - Data Analyst
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/MonoArchon">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MonoArchon&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="MonoArchon's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=MonoArchon&theme=dark&hide_border=true&cache_seconds=86400" alt="MonoArchon's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=MonoArchon&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Schann's GitHub Trophies" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
