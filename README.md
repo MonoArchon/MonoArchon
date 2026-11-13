@@ -7,7 +7,6 @@ Theme: Hacker Terminal / Neon Green
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B28,100:00FF9C&height=180&section=header&text=MonoArchon&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Web%20Developer%20%26%26%20Data%20Analyst&descAlignY=58&descSize=16" width="100%"/>
 
-text
 ███╗   ███╗ ██████╗ ███╗   ██╗ ██████╗  █████╗ ██████╗  ██████╗██╗  ██╗ ██████╗ ███╗   ██╗
 ████╗ ████║██╔═══██╗████╗  ██║██╔═══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██╔═══██╗████╗  ██║
 ██╔████╔██║██║   ██║██╔██╗ ██║██║   ██║███████║██████╔╝██║     ███████║██║   ██║██╔██╗ ██║
@@ -23,7 +22,6 @@ text
 </div>
 
 01. // SYSTEM INFORMATION
-bash
 ┌──(MonoArchon㉿github)-[~]
 └─$ neofetch
 
@@ -89,7 +87,7 @@ Tools & Environment
 </p>
 
 04. // CURRENT OBJECTIVES
-text
+
 [+] Improve web development skills
 [+] Learn modern JavaScript
 [+] Build responsive websites
@@ -119,7 +117,7 @@ text
 </div>
 
 07. // CONNECT WITH ME
-bash
+
 ┌──(MonoArchon㉿github)-[~]
 └─$ cat social_links.txt
 
@@ -127,7 +125,7 @@ GitHub: github.com/MonoArchon
 
 <div align="center">
 
-text
+
 [+] SYSTEM MESSAGE
 
 "Every expert was once a beginner.
