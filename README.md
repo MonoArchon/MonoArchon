@@ -1,86 +1,145 @@
-<h1 align="center">Hi 👋, I'm Schann</h1>
-<h3 align="center">Aspiring Web Developer && Data Analyst</h3>
+<!--
+MONOARCHON | GitHub Profile README
+Theme: Hacker Terminal / Neon Green
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B28,100:00FF9C&height=180&section=header&text=MonoArchon&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Web%20Developer%20%26%26%20Data%20Analyst&descAlignY=58&descSize=16" width="100%"/>
+
+text
+███╗   ███╗ ██████╗ ███╗   ██╗ ██████╗  █████╗ ██████╗  ██████╗██╗  ██╗ ██████╗ ███╗   ██╗
+████╗ ████║██╔═══██╗████╗  ██║██╔═══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██╔═══██╗████╗  ██║
+██╔████╔██║██║   ██║██╔██╗ ██║██║   ██║███████║██████╔╝██║     ███████║██║   ██║██╔██╗ ██║
+██║╚██╔╝██║██║   ██║██║╚██╗██║██║   ██║██╔══██║██╔══██╗██║     ██╔══██║██║   ██║██║╚██╗██║
+██║ ╚═╝ ██║╚██████╔╝██║ ╚████║╚██████╔╝██║  ██║██║  ██║╚██████╗██║  ██║╚██████╔╝██║ ╚████║
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 
 
-## 🧠 My Focus Areas
-- Web Developer
-- Data Analyst
+[ ASPIRING WEB DEVELOPER && DATA ANALYST ]
+
+![GitHub](https://img.shields.io/badge/GitHub-MonoArchon-00FF9C?style=for-the-badge&logo=github&logoColor=black) ![Profile Views](https://komarev.com/ghpvc/?username=MonoArchon&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS)
+
+</div>
+
+01. // SYSTEM INFORMATION
+bash
+┌──(MonoArchon㉿github)-[~]
+└─$ neofetch
+
+       .--.          USER      : MonoArchon
+      |o_o |         OS        : Windows
+      |:_/ |         HOST      : GitHub
+     //   \ \        SHELL     : PowerShell
+    (|     | )       EDITOR    : VS Code
+   /'\_   _/`\       ROLE      : Aspiring Developer
+   \___)=(___/       STATUS    : Learning & Building
+
+                     FOCUS     : Web Development
+                                 Data Analytics
+
+02. // ABOUT ME
+python
+class MonoArchon:
+    def __init__(self):
+        self.username = "MonoArchon"
+        self.role = "Aspiring Web Developer && Data Analyst"
+        self.os = "Windows"
+
+        self.interests = [
+            "Web Development",
+            "Data Analytics",
+            "Programming",
+            "Technology",
+            "Problem Solving"
+        ]
+
+        self.currently_learning = [
+            "Building Web Applications",
+            "Data Analysis",
+            "Writing Clean Code"
+        ]
+
+    def motto(self):
+        return "Build. Analyze. Improve. Repeat."
 
 
-## 🛠️ Languages & Tools
+me = MonoArchon()
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+03. // TECH STACK
 
+Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+Tools & Environment
 
+<p>
+<img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00ADEF"/>
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
+04. // CURRENT OBJECTIVES
+text
+[+] Improve web development skills
+[+] Learn modern JavaScript
+[+] Build responsive websites
+[+] Develop Python projects
+[+] Explore data analytics
+[+] Turn raw data into useful insights
+[+] Build real-world portfolio projects
 
-</p>
+[STATUS] IN PROGRESS...
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+05. // GITHUB STATISTICS
 
-</p>
+<div align="center">
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MonoArchon&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&hide_border=true&rank_icon=github" />
 
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonoArchon&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&hide_border=true" />
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+</div>
 
-</p>
+06. // CONTRIBUTION GRAPH
 
-<p align="center">
-  <a href="https://github.com/MonoArchon">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MonoArchon&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:alvesschann@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-  <a href="https://portfolio-monoarchons-projects.vercel.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MonoArchon&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-## 💬 Quote
-> "Man errs as long as he strives"
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+07. // CONNECT WITH ME
+bash
+┌──(MonoArchon㉿github)-[~]
+└─$ cat social_links.txt
 
+GitHub: github.com/MonoArchon
+
+<div align="center">
+
+text
+[+] SYSTEM MESSAGE
+
+"Every expert was once a beginner.
+ Every great project started with an idea."
+
+BUILD SOMETHING. LEARN SOMETHING. REPEAT.
+
+┌─────────────────────────────────────┐
+│  MonoArchon :: END OF TRANSMISSION  │
+└─────────────────────────────────────┘
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:003B28,100:050505&height=110&section=footer" width="100%"/>
+
+</div>
