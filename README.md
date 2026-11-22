@@ -1,5 +1,5 @@
-<div data-importer="image" align="center">
-  <img width="498" height="498" alt="carmen-library-of-ruina" src="https://github.com/user-attachments/assets/d9b764e7-48ca-4849-81b8-c33fbbfda4ff" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img width="200" height="200" alt="carmen-library-of-ruina" src="https://github.com/user-attachments/assets/d9b764e7-48ca-4849-81b8-c33fbbfda4ff" />
   <img data-importer="profile-views" src="https://count.getloli.com/@:MonoArchon?theme=capoo-1&padding=7&scale=1&align=center&pixelated=1&darkmode=auto"  />
 </div>
 
