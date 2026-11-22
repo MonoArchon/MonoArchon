@@ -1,5 +1,5 @@
 <div align="center">
-  <table>
+  <table border="0" frame="void">
     <tr>
       <td>
         <img width="250" height="250" alt="carmen-library-of-ruina" src="https://github.com/user-attachments/assets/d9b764e7-48ca-4849-81b8-c33fbbfda4ff" />
