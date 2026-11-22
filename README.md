@@ -1,7 +1,15 @@
-<p alight="center">
-  <img width="200" height="200" alt="carmen-library-of-ruina" src="https://github.com/user-attachments/assets/d9b764e7-48ca-4849-81b8-c33fbbfda4ff" />
-  <img data-importer="profile-views" src="https://count.getloli.com/@:MonoArchon?theme=capoo-1&padding=7&scale=1&align=center&pixelated=1&darkmode=auto"  />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="250" height="250" alt="carmen-library-of-ruina" src="https://github.com/user-attachments/assets/d9b764e7-48ca-4849-81b8-c33fbbfda4ff" />
+      </td>
+      <td>
+        <img src="https://count.getloli.com/@:MonoArchon?theme=capoo-1&padding=7&scale=1&align=center&pixelated=1&darkmode=auto" />
+      </td>
+    </tr>
+  </table>
+</div>
 
                          .**#######%%#-                         email = alvesschann@gmail.com ---------------------------------
                       -%*****+**++=-:-:-=-                      name = SchannAlves --------------------------------------------
