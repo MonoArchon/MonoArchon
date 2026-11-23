@@ -1,10 +1,4 @@
 <div align="center">
-  <img width="250" height="250" alt="carmen-library-of-ruina" src="https://github.com/user-attachments/assets/d9b764e7-48ca-4849-81b8-c33fbbfda4ff" />
-  &nbsp;&nbsp;
-  <img src="https://count.getloli.com/@:MonoArchon?theme=capoo-1&padding=7&scale=1&align=center&pixelated=1&darkmode=auto" />
-</div>
-
-<!-- <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr>
       <td style="border: none;">
@@ -15,7 +9,7 @@
       </td>
     </tr>
   </table>
-</div> -->
+</div>
 
                          .**#######%%#-                         email = alvesschann@gmail.com ---------------------------------
                       -%*****+**++=-:-:-=-                      name = SchannAlves --------------------------------------------
