@@ -1,10 +1,10 @@
 <div align="center">
-  <table border="0" frame="void">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td>
+      <td style="border: none;">
         <img width="250" height="250" alt="carmen-library-of-ruina" src="https://github.com/user-attachments/assets/d9b764e7-48ca-4849-81b8-c33fbbfda4ff" />
       </td>
-      <td>
+      <td style="border: none;">
         <img src="https://count.getloli.com/@:MonoArchon?theme=capoo-1&padding=7&scale=1&align=center&pixelated=1&darkmode=auto" />
       </td>
     </tr>
